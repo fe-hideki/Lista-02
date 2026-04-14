@@ -22,6 +22,8 @@ public class ex36 {
 
         }
 
+        scanner.close();
+
     }
 
 }

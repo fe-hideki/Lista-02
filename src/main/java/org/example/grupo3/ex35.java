@@ -22,6 +22,7 @@ public class ex35 {
             System.out.println(sorteio);
         }
 
+        scanner.close();
 
     }
 
